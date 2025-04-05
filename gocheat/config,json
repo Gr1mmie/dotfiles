@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "title": "New Window : pfx + c",
+      "tag": "tmux"
+    },
+    {
+     "title": "Swap Windows : ptx + [WINDOW_NUM]",
+     "tag": "tmux"
+    },
+    {
+     "title": "Rename Window : ptx + ,",
+     "tag": "tmux"
+    },
+    {
+     "title": "Kill Window/Pane : ptx + x",
+     "tag": "tmux"
+    },
+    {
+     "title": "New Horizontal Pane : pfx + \"",
+     "tag": "tmux"
+    },
+    {
+     "title": "New Veritcal Pane : pfx + %",
+     "tag": "tmux"
+    },
+    {
+     "title": "Swap Pane Orientation : pfx + [SPACE]",
+     "tag": "tmux"
+    }
+  ],
+  "styles": {
+    "subtext": "#6c7086",
+    "accent": "#b4befe"
+  }
+}
